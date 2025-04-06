@@ -1,4 +1,5 @@
 pandas
+patsy
 scikit-learn
 seaborn
 statsmodels
